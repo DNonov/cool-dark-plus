@@ -1,0 +1,22 @@
+{
+    "name": "cool-dark",
+    "displayName": "Cool Dark+",
+    "description": "Fork of VS Code Dark+ theme",
+    "version": "0.0.1",
+    "publisher": "ets",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool-Dark+-color-theme.json"
+            }
+        ]
+    }
+}
